@@ -1,10 +1,11 @@
 # Magento2_outside_cart_redirect
  This Magento2 module is cart and redirect cart page for outside.
 
-Copy Directory app/code
-# php bin/magento setup:upgrade
-# php bin/magento deploy:mode:set developer
-# php bin/magento c:f
+# Path and command
+Copy Directory app/code <br />
+php bin/magento setup:upgrade <br />
+php bin/magento deploy:mode:set developer <br />
+php bin/magento c:f <br />
 
 # Url type:
  https://url/outsidecart/index/carting?product=5_2,6_3.... <br />
